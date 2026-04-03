@@ -10,5 +10,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Testing #step name
-        runs: |
+        run: |
           echo "abcdef1223"
